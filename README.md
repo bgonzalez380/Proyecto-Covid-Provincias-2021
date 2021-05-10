@@ -2,7 +2,7 @@
 
 Ciencia en Acción XXII
 
-Título: Taller Excel de Modelización Matemática del COVID-19 adaptado a ESO y Bachillerato
+Título: Taller Excel de Modelización Matemática del COVID-19 adaptado a ESO y Bachillerato. Caso de Estudio: Murcia
 
 Licencia de uso:
 
